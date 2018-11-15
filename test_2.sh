@@ -11,7 +11,7 @@ cd A
 
 # make A.html file: 
 {
-        x="<html><head><title>This is A</title></head><body>Welcome to the Amazing world of A! You've made it</body></html>" 
+        x="<html><head><title>This is A</title></head><body>Welcome to the incredible  world of A! You've made it</body></html>" 
 	
 	echo $x > A.html
 }
